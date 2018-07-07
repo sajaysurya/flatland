@@ -6,8 +6,7 @@ Key for ascii art
 O - player location
 X - goal location
 
-Has a separate goal drape. This is visible to the human player, but is
-implemented such that the agent doesn't know that this is the goal.
+Has a separate goal drape. This is visible on the board.
 
 Reward:
     -1  : for actions
