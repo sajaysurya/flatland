@@ -1,3 +1,0 @@
-[submodule "deepmind_pycolab"]
-	path = deepmind_pycolab
-	url = git@github.com:deepmind/pycolab.git
